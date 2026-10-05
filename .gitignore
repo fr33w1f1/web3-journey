@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+.venv/
+# Foundry build output
+cache/
+out/
+broadcast/
