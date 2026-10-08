@@ -11,5 +11,5 @@
 
 | Project | Type | Description | Code / Writeup |
 | --- | --- | --- | --- |
-| — | Hack reproduction | Reproduce a historical hack with a Forge test PoC. | — |
+| — | Hack reproduction | Reproduce a historical hack with a Forge test PoC. | [pocs](pocs) |
 | — | Protocol rebuild | Rebuild a protocol from scratch to understand its architecture and mechanics. | — |
