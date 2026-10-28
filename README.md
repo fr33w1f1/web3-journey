@@ -9,7 +9,7 @@ Profiles: [Cantina](https://cantina.xyz/u/n0fr33w1f14u) · [Sherlock](https://au
 | Date | Platform | Contest | Findings / Result | Reward (USD) | Rank |
 | --- | --- | --- | --- | ---: | ---: |
 | Oct 2026 | — | Ongoing audit contest | In progress | — | — |
-| Sep 2026 | — | Contest name pending | Findings in review; result pending | — | — |
+| Sep 2026 | HackenProof | [RAIN-USDR Smart Contract Audit Contest (Sept 2026)](https://dashboard.hackenproof.com/user/programs/rain-usdr-smart-contract-audit-contest-sept-2026) | 5 High, 4 Medium | $149.00 | 19 |
 | Aug 2026 | Cantina | Private contest | Findings not public | Not public | — |
 | Jul 2026 | Sherlock | [Metric](https://audits.sherlock.xyz/contests/1279) | 3 Medium | $76.78 | 15 |
 | Jul 2026 | Sherlock | [Tare](https://audits.sherlock.xyz/contests/1234) | 0 findings | $72.36 | — |
